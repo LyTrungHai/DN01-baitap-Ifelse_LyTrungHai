@@ -1,0 +1,108 @@
+/* GLOBAL  */
+#txtArr,
+#txtEvenOdd,
+#txtTriangle {
+  border-radius: 0 0 10px 10px;
+}
+/* BAITAP1  */
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.form1 {
+  justify-content: space-around;
+  align-items: center;
+  background-color: cadetblue;
+  border-radius: 10px 10px 0 0;
+}
+#arrange1,
+#arrange2,
+#arrange3 {
+  width: 40%;
+}
+#btnArr {
+  font-weight: 500;
+  color: black;
+}
+label {
+  font-size: 17px;
+  color: black;
+  font-weight: 600;
+}
+/* END BAITAP1  */
+
+/* =================== */
+
+/* BAITAP2  */
+#hello {
+  height: 63px;
+}
+.baitap2 {
+  background-color: rgb(177, 140, 39);
+  border-radius: 15px;
+}
+
+#btnHello {
+  height: 65px;
+}
+#txtHello {
+  height: 56px;
+  line-height: 56px;
+  border-radius: 5px;
+  padding: 0 25px;
+  font-size: 20px;
+  color: #8e24aa;
+}
+/* END BAITAP2  */
+
+/* ============  */
+/* BAI TAP 3  */
+.form3 {
+  background-color: thistle;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+}
+
+#evenodd1,
+#evenodd2,
+#evenodd3 {
+  width: 40%;
+}
+#btnEvenOdd {
+  width: 90px;
+  height: 60px;
+  color: black;
+  font-weight: 500;
+  font-size: 17px;
+}
+/* END BAITAP3  */
+
+/* ================  */
+/* BAITAP 4  */
+.form4 {
+  background-color: #f06292;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+}
+#edge1,
+#edge2,
+#edge3 {
+  width: 40%;
+}
+#btnTriangle {
+  width: 90px;
+  height: 60px;
+  background-color: #4e342e;
+  border: none;
+  font-size: 17px;
+  font-weight: 500;
+}
+/* END BAITAP 4 */
+
+/* =========================== */
+/* .nangcao1 {
+  justify-content: space-around;
+} */
